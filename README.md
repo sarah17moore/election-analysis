@@ -1,5 +1,6 @@
-# election-analysis
-A classwork example project examining election results using Python
+# Election Analysis: Examining Election Results with Python
+
+A classwork example project examining (fake) election results using Python
 
 ---
 # Overview
