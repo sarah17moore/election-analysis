@@ -1,5 +1,5 @@
 # election-analysis
-A classwork example project examining election results
+A classwork example project examining election results using Python
 
 ---
 # Overview
